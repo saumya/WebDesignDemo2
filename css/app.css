@@ -1,0 +1,19 @@
+/*
+* by: Saumya
+* contact: 2saumyaray@gmail.com
+* version: 1.0.0
+*/
+
+/* application */
+
+
+.masthead {
+ background-image: url("../img/malpani/hero_image.jpg");
+ /*height: 925px;
+ width: 1920px;*/
+ 
+ height: 600px;
+ background-repeat: no-repeat;
+ background-position: left;
+ background-size: contain;
+}
