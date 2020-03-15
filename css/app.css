@@ -10,6 +10,17 @@
 	width: 100%;
 }
 
+.rounded{
+  border-radius: 2.0rem !important;
+}
+.pb-3, .py-3 {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link  {
+  font-size: 0.8em;
+}
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
   color: #fff;
