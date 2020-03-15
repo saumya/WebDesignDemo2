@@ -6,14 +6,16 @@
 
 /* application */
 
-
+/*
 .masthead {
  background-image: url("../img/malpani/hero_image.jpg");
- /*height: 925px;
- width: 1920px;*/
- 
  height: 600px;
  background-repeat: no-repeat;
  background-position: left;
  background-size: contain;
+}
+*/
+
+.header_image{
+	width: 100%;
 }
