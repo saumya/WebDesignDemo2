@@ -49,6 +49,30 @@
   /* border: 1px solid #000; */
 }
 
+/* mine */
+.header_container_over_image{
+  position: absolute;
+  top:160px;
+  left: 120px;
+}
+.btn_style_1{
+  background-color: #019e01;
+  color: #ffffff;
+  width: 200px;
+  height: 60px;
+  text-align: center;
+  padding-top: 15px;
+  font-size: 20px;
+
+  border-radius: 0px 30px 0px 30px;
+  margin-top: 40px;
+}
+.info_1{
+  margin-top: 160px;
+  color: #ffffff;
+  font-size: 1.2em;
+}
+
 
 
 
