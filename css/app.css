@@ -50,10 +50,19 @@
 }
 
 /* mine */
+
 .header_container_over_image{
   position: absolute;
   top:160px;
   left: 120px;
+}
+.header_title{
+  font-size: 4em;
+  font-weight: 900;
+}
+.header_subtitle{
+  font-size: 2em;
+  font-weight: 600;
 }
 .btn_style_1{
   background-color: #019e01;
@@ -68,9 +77,42 @@
   margin-top: 40px;
 }
 .info_1{
-  margin-top: 160px;
+  margin-top: 120px;
   color: #ffffff;
   font-size: 1.2em;
+}
+
+@media (max-width: 800px) {
+  .header_container_over_image{
+    position: absolute;
+    top: 70px;
+    left: 16px;
+  }
+  .header_title{
+    font-size: 0.8em;
+    font-weight: 900;
+  }
+  .header_subtitle{
+    font-size: 0.6em;
+    font-weight: 600;
+  }
+  .btn_style_1{
+    background-color: #019e01;
+    color: #ffffff;
+    width: 80px;
+    height: 24px;
+    text-align: center;
+    padding-top: 2px;
+    font-size: 12px;
+
+    border-radius: 0px 12px 0px 12px;
+    margin-top: 4px;
+  }
+  .info_1{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 0.5em;
+  }
 }
 
 
