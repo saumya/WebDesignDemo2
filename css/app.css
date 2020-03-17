@@ -77,6 +77,33 @@
   border-radius: 0px 30px 0px 30px;
   margin-top: 20px;
 }
+.btn_style_2{
+  display: inline-block;
+  background-color: #019e01;
+  color: #ffffff;
+  width: 160px;
+  height: 50px;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 20px;
+
+  border-radius: 0px 20px 0px 20px;
+}
+.btn_style_3{
+  display: inline-block;
+  
+  
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  padding-top: 4px;
+  font-size: 20px;
+
+  border-radius: 0px 20px 0px 20px;
+  border: solid yellow 0.2em;
+
+  margin-left: 20px;
+}
 .info_1{
   margin-top: 120px;
   color: #ffffff;
@@ -113,6 +140,34 @@
   margin-top: 30px;
 
   font-weight: 600;
+}
+
+.deal_of_day{
+  background-color: #fff7c9;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 0px 50px 0px 50px;
+}
+.deal_of_day_counter_box{
+  background-color: #f9a200;
+  
+  height: 80px;
+}
+.deal_of_day_white_box{
+  background-color: #ffffff;
+  
+  height: 240px;
+  border-radius: 30px;
+  padding: 20px;
+}
+
+.left_image{
+  padding-left: 100px;
+  padding-top: 40px;
+}
+.left_image_btm_text{
+  padding-left: 200px;
+  padding-top: 10px;
 }
 
 /* mobile view */
