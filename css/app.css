@@ -96,7 +96,28 @@
   margin-left: 700px;
 }
 
+.mm_color{
+  color: #f9a200;
+}
+
+
+.welcome_heading{
+  font-size: 2rem;
+  line-height: 2.5rem;
+  margin-top: -70px;
+
+  font-weight: 600;
+}
+.welcome_sub_heading{
+  font-size: 1.2rem;
+  margin-top: 30px;
+
+  font-weight: 600;
+}
+
+/* mobile view */
 @media (max-width: 800px) {
+
   .header_container_over_image{
     position: absolute;
     top: 70px;
@@ -141,6 +162,8 @@
     margin-left: 200px;
   }
 }
+/* mobile view : END; */
+
 
 
 
