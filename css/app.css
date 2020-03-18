@@ -229,6 +229,28 @@
   width: 140px;
 }
 
+.title_1{
+  font-size: 1.2rem;
+  margin-top: 3em;
+  margin-bottom: 3em;
+
+  font-weight: 600;
+}
+.founder_text_box{
+  padding-top: 10px;
+  padding-left: 34px;
+}
+.founder_text_name{
+  font-weight: bold;
+  font-size: 1.0em;
+}
+.founder_text_post{
+  font-weight: bold;
+  font-size: 0.8em;
+  color: #019e01;
+  padding-left: 1em;
+}
+
 /* mobile view */
 @media (max-width: 800px) {
 
