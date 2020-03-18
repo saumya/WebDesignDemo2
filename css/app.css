@@ -149,9 +149,10 @@
   border-radius: 0px 50px 0px 50px;
 }
 .deal_of_day_counter_box{
+  /*
   background-color: #f9a200;
-  
   height: 80px;
+  */
 }
 .deal_of_day_white_box{
   background-color: #ffffff;
@@ -159,6 +160,29 @@
   height: 240px;
   border-radius: 30px;
   padding: 20px;
+}
+.free_home_delivery{
+  color: #019e01;
+  font-weight: 900;
+  padding-top: 24px;
+}
+.counter_text{
+  font-size: 0.6em;
+}
+
+.price_box{
+  margin-bottom: 1em;
+}
+.actual_price{
+  font-size: 1.2em;
+  font-weight: 200;
+  color: #aaa;
+  text-decoration: line-through #FF3028;
+}
+.now_price{
+  font-size: 1.2em;
+  font-weight: 900;
+  color: #019e01;
 }
 
 .left_image{
@@ -168,6 +192,19 @@
 .left_image_btm_text{
   padding-left: 200px;
   padding-top: 10px;
+}
+
+.counter{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  
+  text-align: center;
+  font-size: 24px;
+  line-height: 20px;
+
+  border: 3px solid #fff;
+  padding-top: 16px;
 }
 
 /* mobile view */
