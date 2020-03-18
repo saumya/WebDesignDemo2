@@ -251,6 +251,10 @@
   padding-left: 1em;
 }
 
+.celebrate_king{
+  height: 150px;
+}
+
 /* mobile view */
 @media (max-width: 800px) {
 
