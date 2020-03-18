@@ -275,6 +275,13 @@
 
 .footer_text_socialmedia_box{
   margin-top: 4em;
+  font-size: 1em;
+}
+
+.footer_text_socialmedia_box a {
+  /* color: #1abc9c; */
+  color: #0095ff; 
+  margin-right: 1em;
 }
 
 /* mobile view */
