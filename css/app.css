@@ -142,6 +142,15 @@
   font-weight: 600;
 }
 
+.customer_image{
+  margin-top: 30px;
+  width: 100px;
+  height: 100px;
+
+  background-color: #fff7c9;
+  border-radius: 10px 10px;
+}
+
 .deal_of_day{
   background-color: #fff7c9;
   margin-top: 30px;
@@ -207,6 +216,19 @@
   padding-top: 16px;
 }
 
+.order_process{
+  margin: 0 160px;
+}
+
+.order_step{
+  font-size: 3em;
+  font-weight: bold;
+}
+.order_step_text{
+  display: inline-block;
+  width: 140px;
+}
+
 /* mobile view */
 @media (max-width: 800px) {
 
@@ -253,6 +275,11 @@
     margin-top: 2px;
     margin-left: 200px;
   }
+
+  .free_home_delivery{
+    display: none;
+  }
+
 }
 /* mobile view : END; */
 
