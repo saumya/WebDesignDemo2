@@ -114,6 +114,12 @@
   color: #ffffff;
   font-size: 1.2em;
 }
+
+.bottom_right{
+  right: 50px; 
+  bottom: 40px;
+}
+
 .btn_wp_orderNow{
   background-color: #019e01;
   color: #ffffff;
@@ -124,8 +130,10 @@
   font-size: 1.4em;
 
   border-radius: 30px 30px 30px 30px;
+  /*
   margin-top: 20px;
   margin-left: 700px;
+  */
 }
 
 .btn_wp_orderNow a{
@@ -300,7 +308,7 @@
   padding-top: 1.2rem;
   padding-bottom: 1.2rem;
   /*background-color: #fff7c9;*/
-  background-color: #fff;
+  background-color: #fafafd;
   color: #000;
 }
 .footer_text_1{
@@ -309,12 +317,12 @@
 .footer_text_2{
   font-size: 0.8em;
 
-  padding-top: 4em;
+  padding-top: 2em;
   padding-left: 4em;
 }
 
 .footer_text_socialmedia_box{
-  margin-top: 4em;
+  margin-top: 2em;
   font-size: 1em;
 }
 
@@ -360,18 +368,25 @@
     color: #ffffff;
     font-size: 0.5em;
   }
+
+.bottom_right{
+  right: 1em; 
+  bottom: 60%;
+}
   .btn_wp_orderNow{
     background-color: #019e01;
     color: #ffffff;
-    width: 80px;
+    width: 100px;
     height: 30px;
     text-align: center;
-    padding-top: 1.0em;
-    font-size: 0.6em;
+    padding-top: 0.5em;
+    font-size: 0.8em;
 
     border-radius: 15px 15px 15px 15px;
+    /*
     margin-top: -10px;
     margin-left: 200px;
+    */
   }
 
   .free_home_delivery{
