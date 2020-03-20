@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="179.504" height="149.833" viewBox="0 0 179.504 149.833">
+  <g id="Group_2191" data-name="Group 2191" transform="matrix(0.788, -0.616, 0.616, 0.788, -1049.553, -1109.32)">
+    <rect id="Rectangle_578" data-name="Rectangle 578" width="203.392" height="31.234" transform="translate(67 1619)" fill="#fff"/>
+    <g id="Group_2190" data-name="Group 2190" transform="translate(109.073 1624.809)">
+      <g id="Ellipse_127" data-name="Ellipse 127" fill="none" stroke="#049d04" stroke-width="2">
+        <circle cx="9.392" cy="9.392" r="9.392" stroke="none"/>
+        <circle cx="9.392" cy="9.392" r="8.392" fill="none"/>
+      </g>
+      <path id="Union_55" data-name="Union 55" d="M4.012,6.615h0v0h0v0Z" transform="translate(10.414 3.932) rotate(42)" fill="none" stroke="#049d04" stroke-width="2"/>
+    </g>
+    <text id="GI_CERTIFIED" data-name="GI CERTIFIED" transform="translate(166.538 1637.565)" fill="#263238" font-size="12" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-31.524" y="0">GI </tspan><tspan y="0" font-family="Ubuntu-Regular, Ubuntu" font-weight="400">Certified</tspan></text>
+  </g>
+</svg>
