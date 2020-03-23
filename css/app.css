@@ -4,6 +4,17 @@
 * version: 1.0.0
 */
 
+/* fonts Ubuntu */
+
+@font-face {
+  font-family: "ubuntu_regular";
+  src: url("fonts/Ubuntu-Regular.ttf");
+}
+@font-face {
+  font-family: "ubuntu_bold";
+  src: url("fonts/Ubuntu-Bold.ttf");
+}
+
 /* application */
 
 .header_image{
@@ -64,6 +75,8 @@
   font-size: 3em;
   font-weight: bold;
   margin-top: -20px;
+
+  /*font-family: "ubuntu_bold";*/
 }
 
 .btn_style_1 a{
