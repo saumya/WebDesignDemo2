@@ -369,10 +369,10 @@
     font-size: 0.5em;
   }
 
-.bottom_right{
-  right: 1em; 
-  bottom: 60%;
-}
+  .bottom_right{
+    right: 1em; 
+    top: 16%;
+  }
   .btn_wp_orderNow{
     background-color: #019e01;
     color: #ffffff;
