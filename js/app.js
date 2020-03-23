@@ -18,6 +18,11 @@ $.ready(function(){
 		var minsLeft = 60 - nDate.getMinutes();
 		var secsLeft = 60 - nDate.getSeconds();
 		//console.log( daysLeft , hoursLeft , minsLeft , secsLeft );
+		// reseting the date
+		if(daysLeft<0){
+			daysLeft = 2;
+		}
+		//
 		$('#counter_day').html( daysLeft );
 		$('#counter_hour').html( hoursLeft );
 		$('#counter_min').html( minsLeft );
