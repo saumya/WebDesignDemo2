@@ -348,6 +348,10 @@
 /* mobile view */
 @media (max-width: 800px) {
 
+  .navbar-collapse {
+    background-color: #019e01;
+  }
+
   .header_container_over_image{
     position: absolute;
     top: 70px;
