@@ -239,8 +239,16 @@
 }
 
 .left_image{
+  /*
   padding-left: 100px;
   padding-top: 40px;
+  */
+
+  margin-top: -30px;
+  padding-left: 0px;
+  padding-top: 40px;
+
+  max-width: 54%;
 }
 .left_image_btm_text{
   padding-left: 200px;
