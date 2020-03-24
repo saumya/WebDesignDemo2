@@ -345,6 +345,29 @@
   margin-left: 1em;
 }
 
+
+.carousel-item{
+  /*background-color: #eee;*/
+  /*height: 400px;*/
+}
+
+.carousal_1_item_image{
+  /* margin-left: 350px; */
+
+  margin-left: 360px;
+
+  max-width: 200px;
+  max-height: 200px;
+}
+/*
+.carousal_1_item_text{
+
+}
+*/
+
+
+
+
 /* mobile view */
 @media (max-width: 800px) {
 
@@ -410,6 +433,14 @@
     /*display: block;*/
     margin-top: 40px;
     margin-left: -240px;
+  }
+
+  .carousal_1_item_image{
+    /* margin-left: 350px; */
+    margin-left: 100px;
+
+    max-width: 200px;
+    max-height: 200px;
   }
 
 }
