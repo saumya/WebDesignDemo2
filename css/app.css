@@ -129,8 +129,8 @@
 }
 
 .bottom_right{
-  right: 50px; 
-  bottom: 40px;
+  right: 1em; 
+  bottom: 4em;
 }
 
 .btn_wp_orderNow{
@@ -421,7 +421,7 @@
 
   .bottom_right{
     right: 1em; 
-    top: 16%;
+    top: 34%;
   }
   .btn_wp_orderNow{
     background-color: #019e01;
