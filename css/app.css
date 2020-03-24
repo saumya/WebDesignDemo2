@@ -362,18 +362,18 @@
 .carousal_1_item_image{
   /* margin-left: 350px; */
 
-  margin-left: 360px;
+  margin-left: 38%;
 
   max-width: 200px;
   max-height: 200px;
 
   border-radius: 100px 100px;
 }
-/*
-.carousal_1_item_text{
 
+.carousal_1_item_text{
+  padding:2em;
 }
-*/
+
 
 
 
@@ -447,7 +447,7 @@
 
   .carousal_1_item_image{
     /* margin-left: 350px; */
-    margin-left: 100px;
+    margin-left: 20%;
 
     max-width: 200px;
     max-height: 200px;
