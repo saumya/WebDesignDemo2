@@ -1,6 +1,6 @@
 # Designing the webpage
 
-A design experience.
+A design project. Started as a convertion from image to HTML. But now, it has gone beyound that and is an UX project now.
 
 
 
