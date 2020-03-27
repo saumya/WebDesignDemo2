@@ -1,7 +1,7 @@
 # Designing the webpage
 
-A design project. Started as a convertion from image to HTML. But now, it has gone beyound that and is an UX project now.
-
+ - A design project. Started as a convertion from image to HTML. But now, it has gone beyound that and is an UX project now.
+ - A prototype which is made live later 
 
 
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
