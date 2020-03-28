@@ -2,6 +2,7 @@
 
  - A design project. Started as a convertion from image to HTML. But now, it has gone beyound that and is an UX project now.
  - A prototype which is made live later 
+ - Experiencing on Bootstrap and mobile-first design
 
 
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
